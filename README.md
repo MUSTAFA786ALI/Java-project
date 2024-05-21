@@ -22,9 +22,9 @@ Welcome to my Flappy Bird game implementation in Java! This project is a recreat
 
 ## Screenshots
 
-![Gameplay Screenshot]("C:\Users\SYEDS\OneDrive\Desktop\flappy bird 1.png"
-"C:\Users\SYEDS\OneDrive\Desktop\flappy bird 2.png"
-"C:\Users\SYEDS\OneDrive\Desktop\flappy bird.png")
+![Gameplay Screenshot](https://github.com/MUSTAFA786ALI/Java-project/blob/main/flappy%20bird.png
+https://github.com/MUSTAFA786ALI/Java-project/blob/main/flappy%20bird%202.png
+https://github.com/MUSTAFA786ALI/Java-project/blob/main/flappy%20bird%201.png)
 
 ## Installation
 
